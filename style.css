@@ -445,6 +445,17 @@ footer button.show{
         transform: scale(0.95);
         transition: all 0.3s ease;
     }
+
+    .quiz_box header .timer .time_left_txt{
+        font-weight: 400;
+        font-size: 13px;
+        user-select: none;
+    }
+
+    .quiz_box header .title{
+        font-size: 12px;
+        font-weight: 600;
+    }
     
     
     
